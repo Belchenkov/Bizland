@@ -38,6 +38,18 @@
 .section-boxes .row {
     margin-bottom: 0!important;
 }
+/*
+.section-contact {
+    position: relative;
+}
+
+#googlemap {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}*/
 
 @media (max-width: 600px) {
     .main-header {
